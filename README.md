@@ -1,16 +1,34 @@
-## Hi there 👋
+## 🛠️ Technical Skills
 
-<!--
-**surpetro42/surpetro42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+- C
+- C++
+- Python
 
-Here are some ideas to get you started:
+### Frameworks & Libraries
+- Django
+- Flask
+- Jinja
+- NumPy
+- Pandas
+- Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+- Linux
+- Unix
+- Bash
+- Git
+- Make
+
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Memory Management
+- System Programming
+- Networking
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+- React
