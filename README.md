@@ -1,6 +1,6 @@
 # Hi 👋, I'm Suren Petrosyan
 
-## Software Engineer | C/C++ | Python
+## Software Engineer | C/C++ | Python Developer
 
 Hello! I'm Suren, a Software Engineer with a strong foundation in C, C++, and Python, developed through project-based learning at 42 Yerevan.
 
